@@ -3,7 +3,7 @@
 Searching if elements from a file, exists in another one.
 
 By this I mean that the user can search from a given file (txt, word, pdf etc) if its words are included in a dictionary.
-This dictionary is a manual one. User can add whatever words he want to inside the dictionary file.
+This dictionary is a manual one. User can add whatever words he want inside the dictionary file.
 
 Also this script made to help engineers to count the flexibility and the maintenace of vast code samples.
 For example:
