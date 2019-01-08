@@ -20,3 +20,5 @@ Target: to find the differences between the two code files
 Program. Lang: C
 
 Packages: stdio.h, stdilb.h, string.h, ctype
+
+Do not hesitate to contact me for any additional information using my email papadopoulos.v.dimitris@gmail.com or my LinkedIn profile https://www.linkedin.com/in/dimitriosvpapadopoulos/ 😉
