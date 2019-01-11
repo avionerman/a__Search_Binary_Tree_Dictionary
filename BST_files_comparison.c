@@ -4,6 +4,11 @@
 #include <ctype.h>
 #define w 16 // Default amount of chars for a word [ it can be easily modified as its user wants to].
 
+/* 
+//
+// Autor: Dimitrios V. Papadopoulos
+//
+*/
 
 
 /*  
